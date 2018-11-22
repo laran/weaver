@@ -34,7 +34,8 @@
     "vfile-reporter-json": "^1.0.3",
     "watch": "^1.0.2",
     "xml2js": "^0.4.19",
-    "yarn": "^1.12.3"
+    "yarn": "^1.12.3",
+    "merge": ">=1.2.1"
   },
   "scripts": {
     "start": "npm run serve",
