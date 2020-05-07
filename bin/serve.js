@@ -1,4 +1,5 @@
 const path = require("path");
 const Server = require('../lib/core/server');
+const root = path.resolve(__dirname, '..');
 
-new Server(path.resolve(__dirname, '..'), 3333).serve();
+new Server(root, 3333).serve();
