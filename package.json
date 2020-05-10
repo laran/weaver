@@ -41,7 +41,7 @@
     "serve:debug": "node --inspect-brk bin/serve.js",
     "weave": "node bin/weave.js",
     "weave:debug": "node --inspect-brk bin/weave.js",
-    "weave:watch": "watch 'node bin/weave.js' ../content",
+    "weave:watch": "watch 'node bin/weave.js' ../content ../themes",
     "test": "jest",
     "test:watch": "jest --watchAll"
   },
