@@ -15,7 +15,7 @@
     "html-toc": "^2.0.0",
     "liquidjs": "^6.4.3",
     "merge": ">=1.2.1",
-    "prismjs": "^1.20.0",
+    "prismjs": "^1.27.0",
     "pug": "^2.0.4",
     "rehype-document": "^2.2.0",
     "rehype-format": "^2.3.2",
